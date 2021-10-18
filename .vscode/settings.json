@@ -1,0 +1,6 @@
+{
+  "editor.formatOnSave": true,
+  "typescript.format.insertSpaceAfterTypeAssertion": true,
+  "javascript.format.placeOpenBraceOnNewLineForControlBlocks": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
