@@ -1,6 +1,6 @@
 {
   "name": "my-app",
-  "homepage": "http://ycath.github.io/emoji-fun",
+  "homepage": "http://ycath.github.io/emoji-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
