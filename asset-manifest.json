@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/emoji-fun/static/css/main.5c9d2a13.chunk.css",
+    "main.js": "/emoji-fun/static/js/main.e5badeeb.chunk.js",
+    "main.js.map": "/emoji-fun/static/js/main.e5badeeb.chunk.js.map",
+    "runtime-main.js": "/emoji-fun/static/js/runtime-main.0a4b07c8.js",
+    "runtime-main.js.map": "/emoji-fun/static/js/runtime-main.0a4b07c8.js.map",
+    "static/js/2.4e607a3a.chunk.js": "/emoji-fun/static/js/2.4e607a3a.chunk.js",
+    "static/js/2.4e607a3a.chunk.js.map": "/emoji-fun/static/js/2.4e607a3a.chunk.js.map",
+    "static/js/3.a58f5969.chunk.js": "/emoji-fun/static/js/3.a58f5969.chunk.js",
+    "static/js/3.a58f5969.chunk.js.map": "/emoji-fun/static/js/3.a58f5969.chunk.js.map",
+    "index.html": "/emoji-fun/index.html",
+    "static/css/main.5c9d2a13.chunk.css.map": "/emoji-fun/static/css/main.5c9d2a13.chunk.css.map",
+    "static/js/2.4e607a3a.chunk.js.LICENSE.txt": "/emoji-fun/static/js/2.4e607a3a.chunk.js.LICENSE.txt",
+    "static/media/logo.f94958ae.svg": "/emoji-fun/static/media/logo.f94958ae.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a4b07c8.js",
+    "static/js/2.4e607a3a.chunk.js",
+    "static/css/main.5c9d2a13.chunk.css",
+    "static/js/main.e5badeeb.chunk.js"
+  ]
+}
